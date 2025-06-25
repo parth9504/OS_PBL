@@ -31,6 +31,13 @@ Built with Python, integrated with **Gemini API**, and featuring a rich **Stream
   - Auto-create a PowerPoint presentation (`.pptx`) using `python-pptx`
 - Perfect for students who need fast, AI-assisted presentations on OS topics or general subjects
 
+  ![image](https://github.com/user-attachments/assets/8ae66e55-a956-4c4c-aec9-70203a1fa0a1)
+
+
+  ![image](https://github.com/user-attachments/assets/26387212-e6b0-45b8-9a3a-ab47a1682806)
+
+
+
 ### 🖥️ Process Scheduling Simulator (Interactive UI)
 - **Streamlit-based UI** to input:
   - Arrival time, burst time, I/O burst time
