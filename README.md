@@ -45,6 +45,13 @@ Built with Python, integrated with **Gemini API**, and featuring a rich **Stream
 - **"Suggest Best Algorithm"** button uses Gemini API to analyze input and recommend the most efficient scheduling algorithm
 - **"Suggest Time Quantum"** (for Round Robin) uses Gemini to optimize performance based on process characteristics
 
+![image](https://github.com/user-attachments/assets/6c1ca69b-d45d-4af2-99f4-73cb31358252)
+
+
+![image](https://github.com/user-attachments/assets/25715103-aeb7-4fff-8591-0ff9a0792bc6)
+
+
+
 ![gantt_chart_animation](https://github.com/user-attachments/assets/daaacab1-7efd-48df-8fd7-476b3026909e)
 
 
